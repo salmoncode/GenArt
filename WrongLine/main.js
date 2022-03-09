@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
   frameRate(1);
 }
 
@@ -24,7 +24,7 @@ function draw() {
   // }
 
   // 線を描く間違った方法を改造する
-  const strokeLength = 360;
+  const strokeLength = width - 30;
   const step = 10;
   let lastX = 20;
   let lastY = height/2;
