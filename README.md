@@ -8,3 +8,4 @@ https://salmoncode.github.io/GenArt/WrongLine
 https://salmoncode.github.io/GenArt/WrongCircle
 https://salmoncode.github.io/GenArt/DrawCircle
 https://salmoncode.github.io/GenArt/CA
+https://salmoncode.github.io/GenArt/Boids
